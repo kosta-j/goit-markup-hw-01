@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Home Work #1
+This is a repository for Home Work #1
